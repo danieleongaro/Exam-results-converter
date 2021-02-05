@@ -36,7 +36,8 @@ Per usare un altro file di input e sostituire le matricole di tutti si fa:
 python3 decodifica.py -matr -f documenti/materiedimerda/risultati_cam.csv
 ```
 ## Struttura dei dati
-Questa struttura va **assolutamente** rispettata seguendo gli esempi caricati qui nella repo se non vuoi modificare il programma.
+Questa struttura va **assolutamente** rispettata seguendo gli esempi caricati qui nella repo se non vuoi modificare il programma.  
+Funziona bene con i file csv in input con separatore , e decimali . e senza virgolette "
 ### Database esempio
 nome | cod_pers | matr | interessa
 ----------- | -------- | ------ | - 
