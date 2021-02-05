@@ -58,3 +58,6 @@ matr | voto
 ---- | ----
 123456 | 28
 123000 | 20
+
+## Da fare
+- Ricavare direttamente da un pdf la tabella in input con tabula-py
